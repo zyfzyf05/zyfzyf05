@@ -8,7 +8,7 @@ A miniature dependent type theory kernel implemented in **Lean 4** — a type ch
 
 **Why?** In 2026, frontier AI labs began publishing AI-generated mathematics *at scale* — and the results are trusted exactly where a proof assistant's kernel machine-checked every step. Formal verification is becoming the trust infrastructure of AI-era math and software. MiniDT is my hands-on answer to the question: **what does such a trusted kernel look like from the inside, at the smallest faithful scale?**
 
-- 🎯 First motivation: tensor shape mismatches I hit while reproducing TransUNet — dependent types make this class of errors *impossible at type-checking time*
+- 🎯 First motivation: tensor shape mismatches I hit while reproducing Swin-UNet — dependent types make this class of errors *impossible at type-checking time*
 - 📐 Also interested in: how this line of research continues at ISCAS (from Tang Zhisong's pioneering work on temporal logic programming to today's formal methods)
 
 ## 🌱 Learning
